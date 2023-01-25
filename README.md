@@ -1,6 +1,6 @@
 # Geometric-DL-Week2
 
-#This is the code for Geometric Deep Learning course week2.
+# This is the code for Geometric Deep Learning course week2.
 
 We provide code of LSTM, pretrained models and learn from scratch models.
 
